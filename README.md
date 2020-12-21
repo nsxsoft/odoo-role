@@ -2,6 +2,7 @@ An Odoo Ansible Provisioning Role
 =========================================
 
 This an Ansible role for provisioning Odoo. It supports:
+* Odoo 13 (revisited)
 * Odoo 12
 * Odoo 11
 * Odoo 10
